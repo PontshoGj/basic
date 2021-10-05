@@ -1,0 +1,11 @@
+#card-element {
+    width: 50rem; 
+    margin-top: 5%;
+ }
+#container {
+    display: flex; 
+    justify-content: center;
+}
+#todocontainer {
+    /* margin-top: 12px; */
+}
